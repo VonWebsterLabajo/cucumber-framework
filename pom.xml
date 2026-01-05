@@ -134,11 +134,19 @@
     <artifactId>maven-surefire-plugin</artifactId>
     <version>3.0.0-M9</version>
     <configuration>
+    <!-- Force Allure to write into target/allure-results -->
+    <systemPropertyVariables>
+     <allure.results.directory>
+      ${project.build.directory}/allure-results
+     </allure.results.directory>
+    </systemPropertyVariables>
      <includes>
       <include>**/*TestNgRunner.java</include>
      </includes>
     </configuration>
    </plugin>
+   
+   
 
   </plugins>
  </build>
