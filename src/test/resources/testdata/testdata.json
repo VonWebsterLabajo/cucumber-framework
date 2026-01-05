@@ -1,0 +1,8 @@
+{
+  "register": {
+	  "email": "cicdtest20@gmail.com",
+	  "first_name": "cicd",
+	  "last_name": "test",
+	  "password": "cicd00"
+   }
+}

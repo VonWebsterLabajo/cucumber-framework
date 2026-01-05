@@ -1,0 +1,2521 @@
+{
+  "instant" : {
+    "epochSecond" : 1767594456,
+    "nanoOfSecond" : 23968300
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.hooks.Hooks",
+  "message" : "Starting scenario: Login",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594456,
+    "nanoOfSecond" : 835084600
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.hooks.Hooks",
+  "message" : "Starting scenario: Register",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594456,
+    "nanoOfSecond" : 966700700
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //a[text()='Log in']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594457,
+    "nanoOfSecond" : 319015300
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: Email - Text: johndoe011@mail.com",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594457,
+    "nanoOfSecond" : 451900900
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: Password - Text: secretuser123",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594457,
+    "nanoOfSecond" : 925809700
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is displayed: By.cssSelector: .ico-register",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594458,
+    "nanoOfSecond" : 38820800
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.hooks.Hooks",
+  "message" : "Starting scenario: Multiple Products",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594458,
+    "nanoOfSecond" : 163721200
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is displayed: By.cssSelector: .ico-login",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594458,
+    "nanoOfSecond" : 576106200
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@value='Log in']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594458,
+    "nanoOfSecond" : 587638200
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.cssSelector: .ico-register",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594458,
+    "nanoOfSecond" : 633972200
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: small-searchterms - Text: laptop",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594458,
+    "nanoOfSecond" : 859174600
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is displayed: By.cssSelector: .ico-logout",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594458,
+    "nanoOfSecond" : 940899400
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='FirstName'] - Text: cicd",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594459,
+    "nanoOfSecond" : 67541100
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='LastName'] - Text: test",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594459,
+    "nanoOfSecond" : 229581200
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='Email'] - Text: cicdtest17@gmail.com",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594459,
+    "nanoOfSecond" : 358246800
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='Password'] - Text: cicd00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594459,
+    "nanoOfSecond" : 453091900
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='ConfirmPassword'] - Text: cicd00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594459,
+    "nanoOfSecond" : 549960500
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@value='Search']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594459,
+    "nanoOfSecond" : 995532500
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.cssSelector: .ico-logout",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594460,
+    "nanoOfSecond" : 205692200
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is displayed: By.cssSelector: .ico-login",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594460,
+    "nanoOfSecond" : 469990200
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@id='register-button']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594465,
+    "nanoOfSecond" : 837515800
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "ERROR",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is not displayed: By.xpath: //div[@class='result' and contains(text(),'Your registration completed')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594466,
+    "nanoOfSecond" : 113680300
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "ERROR",
+  "loggerName" : "io.qameta.allure.AllureLifecycle",
+  "message" : "Could not update step: step with uuid b59a58cf-259c-4fd6-a459-2362fc3a4441 not found",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594468,
+    "nanoOfSecond" : 631008100
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //a[contains(text(), '14.1-inch Laptop')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594468,
+    "nanoOfSecond" : 705384000
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[contains(@id,'add-to-cart-button')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594468,
+    "nanoOfSecond" : 758676200
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: small-searchterms - Text: book",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594468,
+    "nanoOfSecond" : 816015500
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@value='Search']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594471,
+    "nanoOfSecond" : 381175200
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //a[contains(text(), 'Health Book')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594471,
+    "nanoOfSecond" : 446729400
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[contains(@id,'add-to-cart-button')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594471,
+    "nanoOfSecond" : 491212300
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: small-searchterms - Text: belt",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594472,
+    "nanoOfSecond" : 375875900
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@value='Search']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594477,
+    "nanoOfSecond" : 521083300
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //a[contains(text(), 'Casual Golf Belt')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594477,
+    "nanoOfSecond" : 586833600
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[contains(@id,'add-to-cart-button')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594478,
+    "nanoOfSecond" : 509711500
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //span[@class='cart-label']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594478,
+    "nanoOfSecond" : 650639600
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Text matches expected: 1590.00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594478,
+    "nanoOfSecond" : 676633200
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Text matches expected: 10.00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594478,
+    "nanoOfSecond" : 699277700
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Text matches expected: 1.00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594547,
+    "nanoOfSecond" : 756577900
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.hooks.Hooks",
+  "message" : "Starting scenario: Register",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594547,
+    "nanoOfSecond" : 756577900
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.hooks.Hooks",
+  "message" : "Starting scenario: Login",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594552,
+    "nanoOfSecond" : 658147600
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.hooks.Hooks",
+  "message" : "Starting scenario: Multiple Products",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594552,
+    "nanoOfSecond" : 803647700
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is displayed: By.cssSelector: .ico-login",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594553,
+    "nanoOfSecond" : 87769600
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: small-searchterms - Text: laptop",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594553,
+    "nanoOfSecond" : 184083900
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@value='Search']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594554,
+    "nanoOfSecond" : 648126100
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is displayed: By.cssSelector: .ico-register",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594555,
+    "nanoOfSecond" : 95206100
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //a[text()='Log in']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594555,
+    "nanoOfSecond" : 629680900
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.cssSelector: .ico-register",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594555,
+    "nanoOfSecond" : 874342000
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: Email - Text: johndoe011@mail.com",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594555,
+    "nanoOfSecond" : 932293700
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='FirstName'] - Text: cicd",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594556,
+    "nanoOfSecond" : 629100
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: Password - Text: secretuser123",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594556,
+    "nanoOfSecond" : 64657800
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='LastName'] - Text: test",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594556,
+    "nanoOfSecond" : 174666500
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='Email'] - Text: cicdtest18@gmail.com",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594556,
+    "nanoOfSecond" : 267726100
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='Password'] - Text: cicd00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594556,
+    "nanoOfSecond" : 345610000
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='ConfirmPassword'] - Text: cicd00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594556,
+    "nanoOfSecond" : 617400700
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@id='register-button']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594558,
+    "nanoOfSecond" : 322123900
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //a[contains(text(), '14.1-inch Laptop')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594558,
+    "nanoOfSecond" : 422017600
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[contains(@id,'add-to-cart-button')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594558,
+    "nanoOfSecond" : 500952400
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: small-searchterms - Text: book",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594560,
+    "nanoOfSecond" : 327528700
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@value='Search']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594562,
+    "nanoOfSecond" : 42669700
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "ERROR",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is not displayed: By.xpath: //div[@class='result' and contains(text(),'Your registration completed')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594562,
+    "nanoOfSecond" : 368356700
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "ERROR",
+  "loggerName" : "io.qameta.allure.AllureLifecycle",
+  "message" : "Could not update step: step with uuid 480d96f0-c376-44ba-accf-925ef342b616 not found",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594562,
+    "nanoOfSecond" : 890569200
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "ERROR",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Failed to click on element: By.xpath: //input[@value='Log in']",
+  "thrown" : {
+    "commonElementCount" : 0,
+    "localizedMessage" : "Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: '4.27.0', revision: 'd6e718d134'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.13'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, findElement {value=//input[@value='Log in'], using=xpath}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\\Users\\VONWEB~1\\AppData\\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:45905}, goog:processID: 14804, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:45905/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}",
+    "message" : "Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: '4.27.0', revision: 'd6e718d134'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.13'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, findElement {value=//input[@value='Log in'], using=xpath}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\\Users\\VONWEB~1\\AppData\\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:45905}, goog:processID: 14804, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:45905/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}",
+    "name" : "org.openqa.selenium.NoSuchSessionException",
+    "extendedStackTrace" : [ {
+      "classLoaderName" : "app",
+      "class" : "org.openqa.selenium.remote.HttpCommandExecutor",
+      "method" : "execute",
+      "file" : "HttpCommandExecutor.java",
+      "line" : 151,
+      "exact" : false,
+      "location" : "selenium-remote-driver-4.27.0.jar",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.openqa.selenium.remote.service.DriverCommandExecutor",
+      "method" : "invokeExecute",
+      "file" : "DriverCommandExecutor.java",
+      "line" : 216,
+      "exact" : false,
+      "location" : "selenium-remote-driver-4.27.0.jar",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.openqa.selenium.remote.service.DriverCommandExecutor",
+      "method" : "execute",
+      "file" : "DriverCommandExecutor.java",
+      "line" : 174,
+      "exact" : false,
+      "location" : "selenium-remote-driver-4.27.0.jar",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.openqa.selenium.remote.RemoteWebDriver",
+      "method" : "execute",
+      "file" : "RemoteWebDriver.java",
+      "line" : 545,
+      "exact" : false,
+      "location" : "selenium-remote-driver-4.27.0.jar",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.openqa.selenium.remote.ElementLocation$ElementFinder$2",
+      "method" : "findElement",
+      "file" : "ElementLocation.java",
+      "line" : 165,
+      "exact" : false,
+      "location" : "selenium-remote-driver-4.27.0.jar",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.openqa.selenium.remote.ElementLocation",
+      "method" : "findElement",
+      "file" : "ElementLocation.java",
+      "line" : 59,
+      "exact" : false,
+      "location" : "selenium-remote-driver-4.27.0.jar",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.openqa.selenium.remote.RemoteWebDriver",
+      "method" : "findElement",
+      "file" : "RemoteWebDriver.java",
+      "line" : 368,
+      "exact" : false,
+      "location" : "selenium-remote-driver-4.27.0.jar",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.openqa.selenium.remote.RemoteWebDriver",
+      "method" : "findElement",
+      "file" : "RemoteWebDriver.java",
+      "line" : 362,
+      "exact" : false,
+      "location" : "selenium-remote-driver-4.27.0.jar",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.openqa.selenium.support.ui.ExpectedConditions$7",
+      "method" : "apply",
+      "file" : "ExpectedConditions.java",
+      "line" : 194,
+      "exact" : false,
+      "location" : "selenium-support-4.27.0.jar",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.openqa.selenium.support.ui.ExpectedConditions$7",
+      "method" : "apply",
+      "file" : "ExpectedConditions.java",
+      "line" : 190,
+      "exact" : false,
+      "location" : "selenium-support-4.27.0.jar",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.openqa.selenium.support.ui.ExpectedConditions$22",
+      "method" : "apply",
+      "file" : "ExpectedConditions.java",
+      "line" : 627,
+      "exact" : false,
+      "location" : "selenium-support-4.27.0.jar",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.openqa.selenium.support.ui.ExpectedConditions$22",
+      "method" : "apply",
+      "file" : "ExpectedConditions.java",
+      "line" : 624,
+      "exact" : false,
+      "location" : "selenium-support-4.27.0.jar",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.openqa.selenium.support.ui.FluentWait",
+      "method" : "until",
+      "file" : "FluentWait.java",
+      "line" : 203,
+      "exact" : false,
+      "location" : "selenium-support-4.27.0.jar",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "com.cheq.demo_webshop.utils.WaitUtil",
+      "method" : "waitForElementClickable",
+      "file" : "WaitUtil.java",
+      "line" : 53,
+      "exact" : false,
+      "location" : "test-classes/",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+      "method" : "clickElement",
+      "file" : "ElementActionUtils.java",
+      "line" : 25,
+      "exact" : false,
+      "location" : "test-classes/",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "com.cheq.demo_webshop.pages.LoginPage",
+      "method" : "clickLoginBtn",
+      "file" : "LoginPage.java",
+      "line" : 36,
+      "exact" : false,
+      "location" : "test-classes/",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "com.cheq.demo_webshop.stepdefinitions.LoginSteps",
+      "method" : "user_should_input_valid_login_credentials",
+      "file" : "LoginSteps.java",
+      "line" : 45,
+      "exact" : false,
+      "location" : "test-classes/",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.13",
+      "class" : "jdk.internal.reflect.NativeMethodAccessorImpl",
+      "method" : "invoke0",
+      "file" : "NativeMethodAccessorImpl.java",
+      "line" : -2,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.13",
+      "class" : "jdk.internal.reflect.NativeMethodAccessorImpl",
+      "method" : "invoke",
+      "file" : "NativeMethodAccessorImpl.java",
+      "line" : 77,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.13",
+      "class" : "jdk.internal.reflect.DelegatingMethodAccessorImpl",
+      "method" : "invoke",
+      "file" : "DelegatingMethodAccessorImpl.java",
+      "line" : 43,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.13",
+      "class" : "java.lang.reflect.Method",
+      "method" : "invoke",
+      "file" : "Method.java",
+      "line" : 568,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.java.Invoker",
+      "method" : "doInvoke",
+      "file" : "Invoker.java",
+      "line" : 66,
+      "exact" : false,
+      "location" : "cucumber-java-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.java.Invoker",
+      "method" : "invoke",
+      "file" : "Invoker.java",
+      "line" : 24,
+      "exact" : false,
+      "location" : "cucumber-java-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.java.AbstractGlueDefinition",
+      "method" : "invokeMethod",
+      "file" : "AbstractGlueDefinition.java",
+      "line" : 47,
+      "exact" : false,
+      "location" : "cucumber-java-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.java.JavaStepDefinition",
+      "method" : "execute",
+      "file" : "JavaStepDefinition.java",
+      "line" : 29,
+      "exact" : false,
+      "location" : "cucumber-java-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.core.runner.CoreStepDefinition",
+      "method" : "execute",
+      "file" : "CoreStepDefinition.java",
+      "line" : 66,
+      "exact" : false,
+      "location" : "cucumber-core-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.core.runner.PickleStepDefinitionMatch",
+      "method" : "runStep",
+      "file" : "PickleStepDefinitionMatch.java",
+      "line" : 62,
+      "exact" : false,
+      "location" : "cucumber-core-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.core.runner.ExecutionMode$1",
+      "method" : "execute",
+      "file" : "ExecutionMode.java",
+      "line" : 10,
+      "exact" : false,
+      "location" : "cucumber-core-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.core.runner.TestStep",
+      "method" : "executeStep",
+      "file" : "TestStep.java",
+      "line" : 81,
+      "exact" : false,
+      "location" : "cucumber-core-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.core.runner.TestStep",
+      "method" : "run",
+      "file" : "TestStep.java",
+      "line" : 53,
+      "exact" : false,
+      "location" : "cucumber-core-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.core.runner.PickleStepTestStep",
+      "method" : "run",
+      "file" : "PickleStepTestStep.java",
+      "line" : 51,
+      "exact" : false,
+      "location" : "cucumber-core-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.core.runner.TestCase",
+      "method" : "run",
+      "file" : "TestCase.java",
+      "line" : 84,
+      "exact" : false,
+      "location" : "cucumber-core-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.core.runner.Runner",
+      "method" : "runPickle",
+      "file" : "Runner.java",
+      "line" : 75,
+      "exact" : false,
+      "location" : "cucumber-core-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.testng.TestNGCucumberRunner",
+      "method" : "lambda$runScenario$1",
+      "file" : "TestNGCucumberRunner.java",
+      "line" : 135,
+      "exact" : false,
+      "location" : "cucumber-testng-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.core.runtime.CucumberExecutionContext",
+      "method" : "lambda$runTestCase$5",
+      "file" : "CucumberExecutionContext.java",
+      "line" : 136,
+      "exact" : false,
+      "location" : "cucumber-core-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.core.runtime.RethrowingThrowableCollector",
+      "method" : "executeAndThrow",
+      "file" : "RethrowingThrowableCollector.java",
+      "line" : 23,
+      "exact" : true,
+      "location" : "cucumber-core-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.core.runtime.CucumberExecutionContext",
+      "method" : "runTestCase",
+      "file" : "CucumberExecutionContext.java",
+      "line" : 136,
+      "exact" : true,
+      "location" : "cucumber-core-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.testng.TestNGCucumberRunner",
+      "method" : "runScenario",
+      "file" : "TestNGCucumberRunner.java",
+      "line" : 132,
+      "exact" : true,
+      "location" : "cucumber-testng-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "io.cucumber.testng.AbstractTestNGCucumberTests",
+      "method" : "runScenario",
+      "file" : "AbstractTestNGCucumberTests.java",
+      "line" : 35,
+      "exact" : true,
+      "location" : "cucumber-testng-7.20.1.jar",
+      "version" : "7.20.1"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.13",
+      "class" : "jdk.internal.reflect.NativeMethodAccessorImpl",
+      "method" : "invoke0",
+      "file" : "NativeMethodAccessorImpl.java",
+      "line" : -2,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.13",
+      "class" : "jdk.internal.reflect.NativeMethodAccessorImpl",
+      "method" : "invoke",
+      "file" : "NativeMethodAccessorImpl.java",
+      "line" : 77,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.13",
+      "class" : "jdk.internal.reflect.DelegatingMethodAccessorImpl",
+      "method" : "invoke",
+      "file" : "DelegatingMethodAccessorImpl.java",
+      "line" : 43,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.13",
+      "class" : "java.lang.reflect.Method",
+      "method" : "invoke",
+      "file" : "Method.java",
+      "line" : 568,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.testng.internal.invokers.MethodInvocationHelper",
+      "method" : "invokeMethod",
+      "file" : "MethodInvocationHelper.java",
+      "line" : 141,
+      "exact" : true,
+      "location" : "testng-7.10.2.jar",
+      "version" : "7.10.2"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.testng.internal.invokers.TestInvoker",
+      "method" : "invokeMethod",
+      "file" : "TestInvoker.java",
+      "line" : 686,
+      "exact" : true,
+      "location" : "testng-7.10.2.jar",
+      "version" : "7.10.2"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.testng.internal.invokers.TestInvoker",
+      "method" : "invokeTestMethod",
+      "file" : "TestInvoker.java",
+      "line" : 230,
+      "exact" : true,
+      "location" : "testng-7.10.2.jar",
+      "version" : "7.10.2"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker",
+      "method" : "call",
+      "file" : "TestMethodWithDataProviderMethodWorker.java",
+      "line" : 81,
+      "exact" : true,
+      "location" : "testng-7.10.2.jar",
+      "version" : "7.10.2"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.testng.internal.thread.Async$AsyncTask",
+      "method" : "run",
+      "file" : "Async.java",
+      "line" : 34,
+      "exact" : true,
+      "location" : "testng-7.10.2.jar",
+      "version" : "7.10.2"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.13",
+      "class" : "java.util.concurrent.ThreadPoolExecutor",
+      "method" : "runWorker",
+      "file" : "ThreadPoolExecutor.java",
+      "line" : 1136,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.13",
+      "class" : "java.util.concurrent.ThreadPoolExecutor$Worker",
+      "method" : "run",
+      "file" : "ThreadPoolExecutor.java",
+      "line" : 635,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.13",
+      "class" : "java.lang.Thread",
+      "method" : "run",
+      "file" : "Thread.java",
+      "line" : 842,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    } ]
+  },
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594563,
+    "nanoOfSecond" : 412707200
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "ERROR",
+  "loggerName" : "io.qameta.allure.AllureLifecycle",
+  "message" : "Could not update step: step with uuid 85c4a514-951d-41f7-8669-c54f9470e8dd not found",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594583,
+    "nanoOfSecond" : 601123000
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //a[contains(text(), 'Health Book')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594583,
+    "nanoOfSecond" : 671164900
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[contains(@id,'add-to-cart-button')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594583,
+    "nanoOfSecond" : 725213900
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: small-searchterms - Text: belt",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594583,
+    "nanoOfSecond" : 780961000
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@value='Search']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594593,
+    "nanoOfSecond" : 121025200
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //a[contains(text(), 'Casual Golf Belt')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594593,
+    "nanoOfSecond" : 187780600
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[contains(@id,'add-to-cart-button')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594594,
+    "nanoOfSecond" : 528763100
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //span[@class='cart-label']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594594,
+    "nanoOfSecond" : 684514100
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Text matches expected: 1590.00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594594,
+    "nanoOfSecond" : 710003300
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Text matches expected: 10.00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594599,
+    "nanoOfSecond" : 950767000
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "ERROR",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Failed to get text or compare: By.xpath: //a[text()='Casual Golf Belt']/ancestor::tr//span[@class='product-unit-price']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594600,
+    "nanoOfSecond" : 200719500
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "ERROR",
+  "loggerName" : "io.qameta.allure.AllureLifecycle",
+  "message" : "Could not update step: step with uuid ca50b98f-fcb2-484e-8af2-e1158b4f7487 not found",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594854,
+    "nanoOfSecond" : 45266400
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.hooks.Hooks",
+  "message" : "Starting scenario: Multiple Products",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594854,
+    "nanoOfSecond" : 293822800
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is displayed: By.cssSelector: .ico-login",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594854,
+    "nanoOfSecond" : 538515700
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: small-searchterms - Text: laptop",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594854,
+    "nanoOfSecond" : 632501900
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.hooks.Hooks",
+  "message" : "Starting scenario: Login",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594855,
+    "nanoOfSecond" : 177393000
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //a[text()='Log in']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594855,
+    "nanoOfSecond" : 346659800
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@value='Search']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594855,
+    "nanoOfSecond" : 431488200
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: Email - Text: johndoe011@mail.com",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594855,
+    "nanoOfSecond" : 587976200
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: Password - Text: secretuser123",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594856,
+    "nanoOfSecond" : 592110400
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@value='Log in']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594856,
+    "nanoOfSecond" : 759007100
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.hooks.Hooks",
+  "message" : "Starting scenario: Register",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594856,
+    "nanoOfSecond" : 777660300
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is displayed: By.cssSelector: .ico-logout",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594857,
+    "nanoOfSecond" : 862233300
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.cssSelector: .ico-logout",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594857,
+    "nanoOfSecond" : 863234100
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is displayed: By.cssSelector: .ico-register",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594858,
+    "nanoOfSecond" : 111797100
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is displayed: By.cssSelector: .ico-login",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594858,
+    "nanoOfSecond" : 527757100
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.cssSelector: .ico-register",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594858,
+    "nanoOfSecond" : 772764400
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='FirstName'] - Text: cicd",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594858,
+    "nanoOfSecond" : 852900800
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='LastName'] - Text: test",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594858,
+    "nanoOfSecond" : 927394900
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='Email'] - Text: cicdtest19@gmail.com",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594858,
+    "nanoOfSecond" : 994522400
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='Password'] - Text: cicd00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594859,
+    "nanoOfSecond" : 55348800
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='ConfirmPassword'] - Text: cicd00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594860,
+    "nanoOfSecond" : 145514500
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@id='register-button']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594860,
+    "nanoOfSecond" : 300998000
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is displayed: By.xpath: //div[@class='result' and contains(text(),'Your registration completed')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594879,
+    "nanoOfSecond" : 661126200
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //a[contains(text(), '14.1-inch Laptop')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594879,
+    "nanoOfSecond" : 757599900
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[contains(@id,'add-to-cart-button')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594879,
+    "nanoOfSecond" : 800892400
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: small-searchterms - Text: book",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594879,
+    "nanoOfSecond" : 865073500
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@value='Search']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594883,
+    "nanoOfSecond" : 581191200
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //a[contains(text(), 'Health Book')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594883,
+    "nanoOfSecond" : 647500300
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[contains(@id,'add-to-cart-button')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594883,
+    "nanoOfSecond" : 699683100
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: small-searchterms - Text: belt",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594883,
+    "nanoOfSecond" : 753699400
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@value='Search']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594914,
+    "nanoOfSecond" : 180106800
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //a[contains(text(), 'Casual Golf Belt')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594914,
+    "nanoOfSecond" : 246432400
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[contains(@id,'add-to-cart-button')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594915,
+    "nanoOfSecond" : 561145700
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //span[@class='cart-label']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594915,
+    "nanoOfSecond" : 721143000
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Text matches expected: 1590.00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594915,
+    "nanoOfSecond" : 745955100
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Text matches expected: 10.00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594920,
+    "nanoOfSecond" : 970821300
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "ERROR",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Failed to get text or compare: By.xpath: //a[text()='Casual Golf Belt']/ancestor::tr//span[@class='product-unit-price']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594921,
+    "nanoOfSecond" : 181014600
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "ERROR",
+  "loggerName" : "io.qameta.allure.AllureLifecycle",
+  "message" : "Could not update step: step with uuid af8660c2-20ef-4cbb-988a-f95819db7f40 not found",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594969,
+    "nanoOfSecond" : 610951200
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.hooks.Hooks",
+  "message" : "Starting scenario: Register",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594970,
+    "nanoOfSecond" : 68319400
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.hooks.Hooks",
+  "message" : "Starting scenario: Login",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594970,
+    "nanoOfSecond" : 664856200
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //a[text()='Log in']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594970,
+    "nanoOfSecond" : 850653000
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is displayed: By.cssSelector: .ico-register",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594970,
+    "nanoOfSecond" : 941370200
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: Email - Text: johndoe011@mail.com",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594971,
+    "nanoOfSecond" : 71233900
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: Password - Text: secretuser123",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594971,
+    "nanoOfSecond" : 85771600
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.hooks.Hooks",
+  "message" : "Starting scenario: Multiple Products",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594971,
+    "nanoOfSecond" : 157028400
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is displayed: By.cssSelector: .ico-login",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594971,
+    "nanoOfSecond" : 429810500
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.cssSelector: .ico-register",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594971,
+    "nanoOfSecond" : 459367400
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: small-searchterms - Text: laptop",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594971,
+    "nanoOfSecond" : 678094200
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='FirstName'] - Text: cicd",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594971,
+    "nanoOfSecond" : 750456000
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='LastName'] - Text: test",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594971,
+    "nanoOfSecond" : 826969700
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='Email'] - Text: cicdtest20@gmail.com",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594971,
+    "nanoOfSecond" : 886241300
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='Password'] - Text: cicd00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594971,
+    "nanoOfSecond" : 960611200
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.xpath: //input[@id='ConfirmPassword'] - Text: cicd00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594972,
+    "nanoOfSecond" : 144551900
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@value='Log in']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594972,
+    "nanoOfSecond" : 307285100
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@value='Search']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594972,
+    "nanoOfSecond" : 379247400
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is displayed: By.cssSelector: .ico-logout",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594973,
+    "nanoOfSecond" : 144470600
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@id='register-button']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594973,
+    "nanoOfSecond" : 303763200
+  },
+  "thread" : "TestNG-PoolService-2",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is displayed: By.xpath: //div[@class='result' and contains(text(),'Your registration completed')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594973,
+    "nanoOfSecond" : 529825500
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.cssSelector: .ico-logout",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594973,
+    "nanoOfSecond" : 796901400
+  },
+  "thread" : "TestNG-PoolService-1",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Element is displayed: By.cssSelector: .ico-login",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 20,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594983,
+    "nanoOfSecond" : 342393000
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //a[contains(text(), '14.1-inch Laptop')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594983,
+    "nanoOfSecond" : 419191200
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[contains(@id,'add-to-cart-button')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594983,
+    "nanoOfSecond" : 460862500
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: small-searchterms - Text: book",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594983,
+    "nanoOfSecond" : 521991700
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@value='Search']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594986,
+    "nanoOfSecond" : 800992300
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //a[contains(text(), 'Health Book')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594986,
+    "nanoOfSecond" : 862362400
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[contains(@id,'add-to-cart-button')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594986,
+    "nanoOfSecond" : 911033400
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Entered text in element: By.id: small-searchterms - Text: belt",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594986,
+    "nanoOfSecond" : 966043800
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[@value='Search']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594988,
+    "nanoOfSecond" : 838270200
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //a[contains(text(), 'Casual Golf Belt')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594988,
+    "nanoOfSecond" : 898811700
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //input[contains(@id,'add-to-cart-button')]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594989,
+    "nanoOfSecond" : 805732200
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Clicked on element: By.xpath: //span[@class='cart-label']",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594989,
+    "nanoOfSecond" : 989001700
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Text matches expected: 1590.00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594990,
+    "nanoOfSecond" : 14062700
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Text matches expected: 10.00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1767594990,
+    "nanoOfSecond" : 37767400
+  },
+  "thread" : "TestNG-PoolService-3",
+  "level" : "INFO",
+  "loggerName" : "com.cheq.demo_webshop.utils.ElementActionUtils",
+  "message" : "Text matches expected: 1.00",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 22,
+  "threadPriority" : 5
+}
