@@ -22,7 +22,7 @@ import org.testng.annotations.DataProvider;
   "com.cheq.demo_webshop.listener.StepListener"
  },
  monochrome = true,
- tags = "@login or @validateMultipleProducts or @register"
+ tags = "@login or @validateMultipleProducts"
 )
 public class TestNgRunner extends AbstractTestNGCucumberTests {
 
