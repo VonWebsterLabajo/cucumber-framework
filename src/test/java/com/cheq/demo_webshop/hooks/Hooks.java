@@ -23,7 +23,7 @@ import java.io.IOException;
 */
 public class Hooks {
 
-    private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
+//    private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
     private ThreadLocal<AllureUtil> allureUtil = new ThreadLocal<>();
     private static final Logger logger = LoggerUtil.getLogger(Hooks.class);
 
@@ -33,63 +33,64 @@ public class Hooks {
     *
     * @param scenario the current Cucumber scenario
     * @throws IOException if configuration properties fail to load
-    */
+    */    
     @Before
     public void setUp(Scenario scenario) throws IOException {
-        String env = System.getProperty("env", "dev");
-        ConfigReader.loadProperties(env);
+     String env = System.getProperty("env", "dev");
+     ConfigReader.loadProperties(env);
 
-        String browser = System.getProperty("browser", ConfigReader.get("browser"));
-        String url = ConfigReader.get("baseUrl");
+     String browser = System.getProperty("browser", ConfigReader.get("browser"));
+     String url = ConfigReader.get("baseUrl");
 
-        WebDriver drv = WebDriverFactory.loadDriver(browser);
-        drv.manage().window().maximize();
-        drv.get(url);
+     WebDriver drv = WebDriverFactory.loadDriver(browser);
+     drv.manage().window().maximize();
+     drv.get(url);
 
-        driver.set(drv); // thread-local driver
-        DriverManager.setDriver(drv);
+     DriverManager.setDriver(drv);
 
-        allureUtil.set(new AllureUtil(drv));
-        allureUtil.get().writeAllureEnvironment(
-            ImmutableMap.<String, String>builder()
-                .put("OS", System.getProperty("os.name"))
-                .put("Browser", browser)
-                .put("Environment", env)
-                .build()
-        );
+     allureUtil.set(new AllureUtil(drv));
+     allureUtil.get().writeAllureEnvironment(
+         ImmutableMap.<String, String>builder()
+             .put("OS", System.getProperty("os.name"))
+             .put("Browser", browser)
+             .put("Environment", env)
+             .build()
+     );
 
-        logger.info("Starting scenario: " + scenario.getName());
+     logger.info("Starting scenario: " + scenario.getName());
     }
 
+
+    /**
+     * Captures and attaches a screenshot to the Allure report
+     * if the scenario execution fails.
+     *
+     * @param scenario the executed Cucumber scenario
+     */
+    @After(order = 0)
+    public void captureFailure(Scenario scenario) {
+    	WebDriver drv = DriverManager.getDriver();
+    	if (scenario.isFailed() && drv != null) {
+    		allureUtil.get().captureAndAttachScreenshot();
+    	}
+    }
+    
     /**
     * Quits the WebDriver instance and cleans up thread-local resources
     * after scenario execution.
     *
     * @param scenario the executed Cucumber scenario
     */
-    @After(order = 0)
+    @After(order = 1)
     public void tearDown(Scenario scenario) {
-        WebDriver drv = driver.get();
-        if (drv != null) {
-            drv.quit();
-            driver.remove();
-            allureUtil.remove();
-        }
+     WebDriver drv = DriverManager.getDriver();
+     if (drv != null) {
+      drv.quit();
+     }
+     DriverManager.removeDriver();
+     allureUtil.remove();
     }
 
-    /**
-    * Captures and attaches a screenshot to the Allure report
-    * if the scenario execution fails.
-    *
-    * @param scenario the executed Cucumber scenario
-    */
-    @After(order = 1)
-    public void captureFailure(Scenario scenario) {
-        WebDriver drv = driver.get();
-        if (scenario.isFailed() && drv != null) {
-            allureUtil.get().captureAndAttachScreenshot();
-        }
-    }
 
     /**
     * Captures and attaches a screenshot to the Allure report
@@ -99,18 +100,14 @@ public class Hooks {
     */
     @AfterStep
     public void afterEachStep(Scenario scenario) {
-        WebDriver drv = driver.get();
-        if (drv != null) {
-            allureUtil.get().captureAndAttachScreenshot();
-        }
-    }
-
-    /**
-    * Returns the current thread-local WebDriver instance.
-    *
-    * @return the active WebDriver
-    */
-    public static WebDriver getDriver() {
-        return driver.get();
+     WebDriver drv = DriverManager.getDriver();
+     if (drv == null) {
+      return;
+     }
+     try {
+      allureUtil.get().captureAndAttachScreenshot();
+     } catch (Exception e) {
+      // swallow to prevent CI flakiness
+     }
     }
 }
