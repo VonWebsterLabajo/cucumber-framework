@@ -44,7 +44,9 @@ public class MultipleProductsPage {
     }
 
     public void verifyProductPrice(String productName, String expectedPrice) {
-        By priceLocator = By.xpath("//a[text()='" + productName + "']/ancestor::tr//span[@class='product-unit-price']");
+//        By priceLocator = By.xpath("//a[text()='" + productName + "']/ancestor::tr//span[@class='product-unit-price']");
+        By priceLocator = By.xpath("//td[a[text()='"+ productName +"']]/following-sibling::td//span[@class='product-unit-price']");
+        
         elementActionUtils.getTextAndCompare(priceLocator, expectedPrice);
 
     }
