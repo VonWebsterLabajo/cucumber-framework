@@ -6,7 +6,6 @@ import org.openqa.selenium.WebDriver;
 import com.cheq.demo_webshop.pages.CartPage;
 import com.cheq.demo_webshop.pages.HomePage;
 import com.cheq.demo_webshop.pages.MultipleProductsPage;
-
 import com.cheq.demo_webshop.manager.DriverManager;
 
 import io.cucumber.datatable.DataTable;

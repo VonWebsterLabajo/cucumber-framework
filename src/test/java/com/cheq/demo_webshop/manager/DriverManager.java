@@ -8,26 +8,31 @@ import org.openqa.selenium.WebDriver;
 * WebDriver, supporting browser automation and resource management.
 */
 public class DriverManager {
-    private static WebDriver driver;
+    private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
 
     /**
-     * Retrieves the current WebDriver instance.
-     * This allows test classes to interact with the browser.
+     * Retrieves the current thread's WebDriver instance.
      *
-     * @return the active WebDriver instance, or null if not set
+     * @return the active WebDriver for this thread, or null if not set
      */
     public static WebDriver getDriver() {
-        return driver;
+        return driver.get();
     }
 
     /**
-     * Assigns the WebDriver instance to be used for browser automation.
-     * Typically called during test setup to initialize the driver.
+     * Assigns a WebDriver instance for the current thread.
      *
-     * @param driverInstance the WebDriver to use for the session
+     * @param driverInstance the WebDriver to use for this thread
      */
     public static void setDriver(WebDriver driverInstance) {
-        driver = driverInstance;
+        driver.set(driverInstance);
+    }
+
+    /**
+     * Removes the WebDriver instance for the current thread.
+     * Use this after quitting the driver to prevent memory leaks.
+     */
+    public static void removeDriver() {
+        driver.remove();
     }
 }
- 
