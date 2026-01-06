@@ -16,8 +16,5 @@ public class LoggerUtil {
     public static Logger getLogger(Class<?> clazz) {
     	// Get a logger instance for the given class name
         return LogManager.getLogger(clazz.getName());
-
     }
 }
-
- 
