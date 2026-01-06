@@ -36,9 +36,7 @@ public class WaitUtil {
     public WebElement waitForElementVisible(By locator, long timeout) {
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(timeout));
         return wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
-
     }
-
 
     /**
      * Waits for the element located by the given locator to be clickable.
@@ -94,6 +92,4 @@ public class WaitUtil {
             .ignoring(NoSuchElementException.class);
         return fluentWait.until(driver -> driver.findElement(locator));
     }
-
 }
- 
