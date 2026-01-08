@@ -39,11 +39,13 @@ public class MultipleProductsStep {
         for (Map<String, String> product : productList) {
         	String keyword = product.get("keyword");
         	String item = product.get("item");
+        	String no = product.get("no");
+        	
 
             productsPage.searchForProduct(keyword);
             productsPage.clickSearchButton();
             productsPage.clickProduct(item);
-            productsPage.addToCart();
+            productsPage.addToCart(no);
 
         }
     }

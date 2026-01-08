@@ -36,28 +36,34 @@ public class Hooks {
     */    
     @Before
     public void setUp(Scenario scenario) throws IOException {
-     String env = System.getProperty("env", "dev");
-     ConfigReader.loadProperties(env);
-
-     String browser = System.getProperty("browser", ConfigReader.get("browser"));
-     String url = ConfigReader.get("baseUrl");
-
-     WebDriver drv = WebDriverFactory.loadDriver(browser);
-     drv.manage().window().maximize();
-     drv.get(url);
-
-     DriverManager.setDriver(drv);
-
-     allureUtil.set(new AllureUtil(drv));
-     allureUtil.get().writeAllureEnvironment(
-         ImmutableMap.<String, String>builder()
-             .put("OS", System.getProperty("os.name"))
-             .put("Browser", browser)
-             .put("Environment", env)
-             .build()
-     );
-
-     logger.info("Starting scenario: " + scenario.getName());
+    	// Verify if the run is parallel or sequential!
+		System.out.println(
+				 "Thread=" + Thread.currentThread().getName() +
+				 " | Scenario=" + scenario.getName()
+				);
+    	
+	     String env = System.getProperty("env", "dev");
+	     ConfigReader.loadProperties(env);
+	
+	     String browser = System.getProperty("browser", ConfigReader.get("browser"));
+	     String url = ConfigReader.get("baseUrl");
+	
+	     WebDriver drv = WebDriverFactory.loadDriver(browser);
+	     drv.manage().window().maximize();
+	     drv.get(url);
+	
+	     DriverManager.setDriver(drv);
+	
+	     allureUtil.set(new AllureUtil(drv));
+	     allureUtil.get().writeAllureEnvironment(
+	         ImmutableMap.<String, String>builder()
+	             .put("OS", System.getProperty("os.name"))
+	             .put("Browser", browser)
+	             .put("Environment", env)
+	             .build()
+	     );
+	
+	     logger.info("Starting scenario: " + scenario.getName());
     }
 
 

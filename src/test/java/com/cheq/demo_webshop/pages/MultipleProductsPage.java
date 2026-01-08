@@ -34,8 +34,8 @@ public class MultipleProductsPage {
     	elementActionUtils.clickElement(itemLink);
     }
 
-    public void addToCart() {
-    	By addToCartButton = By.xpath("//input[contains(@id,'add-to-cart-button')]");
+    public void addToCart(String no) {
+    	By addToCartButton = By.xpath("//input[@id='add-to-cart-button-"+ no +"']");
     	elementActionUtils.clickElement(addToCartButton);
     }
 
